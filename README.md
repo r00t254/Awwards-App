@@ -26,4 +26,5 @@ Python3.8.10
 python3.8 manage.py runserver
 
 # Testing application
-python manage.py test 
+python manage.py test
+# Technology Used 
