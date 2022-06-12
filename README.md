@@ -30,3 +30,4 @@ python manage.py test
 # Technology Used 
 Python3.8.10
 Django 4.04
+Heroku 
