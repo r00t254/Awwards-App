@@ -19,6 +19,7 @@ Mary Auma
 .A user can view posted projects and their details.
 # Installations
 Django 4.04 
+
 Python3.8.10
 
 # Running Applications
