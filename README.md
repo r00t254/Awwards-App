@@ -36,5 +36,7 @@ Django 4.04
 Heroku 
 # Known Bugs
 There are no known bugs currently but pull requests are allowed incase of a bug
+
 # Contact Informations
+You can send your feedback and comments through this email.
 
