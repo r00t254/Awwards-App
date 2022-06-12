@@ -38,5 +38,5 @@ Heroku
 There are no known bugs currently but pull requests are allowed incase of a bug
 
 # Contact Informations
-You can send your feedback and comments through this email.
+You can send your feedback and comments through this email.root254.mary@gmailmail.com
 
