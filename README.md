@@ -17,3 +17,4 @@ Mary Auma
 .A user can post a project to be reviewed.
 
 .A user can view posted projects and their details.
+# Installations
