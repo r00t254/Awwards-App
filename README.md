@@ -24,3 +24,6 @@ Python3.8.10
 
 # Running Applications
 python3.8 manage.py runserver
+
+# Testing application
+python manage.py test 
