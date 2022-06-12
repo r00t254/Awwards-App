@@ -20,3 +20,6 @@ Mary Auma
 # Installations
 Django 4.04 
 Python3.8.10
+
+# Running Applications
+python3.8 manage.py runserver
