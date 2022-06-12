@@ -8,12 +8,12 @@ Mary Auma
 # Screen short
 
 # User Story
-A user can view their profile pictures
+.A user can view their profile pictures
 
-A user can search for projects
+.A user can search for projects
 
-A user is able to view the projects
+.A user is able to view the projects
 
-A user can post a project to be reviewed.
+.A user can post a project to be reviewed.
 
-A user can view posted projects and their details.
+.A user can view posted projects and their details.
