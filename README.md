@@ -11,4 +11,5 @@ Mary Auma
 A user can view their profile pictures
 
 A user can search for projects
+
 A user is able to view the projects
