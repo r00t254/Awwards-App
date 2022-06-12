@@ -8,3 +8,4 @@ Mary Auma
 # Screen short
 
 # User Story
+A user can view their profile pictures
